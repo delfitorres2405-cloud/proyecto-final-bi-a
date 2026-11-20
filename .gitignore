@@ -1,0 +1,13 @@
+# Entorno virtual y caches
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Credenciales de Google Drive: NUNCA subir al repositorio
+credentials.json
+token.json
+
+# Archivos del sistema / editor
+.DS_Store
+.vscode/
